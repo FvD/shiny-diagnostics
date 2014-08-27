@@ -50,7 +50,7 @@ shinyServer(function(input, output, session){
     return(table)
   })
   output$session.info2 <- renderPrint({
-   cat(session.info[[2]])
+   cat(session.info[[2]], " running as <b>", user, "</b>")
   })
   output$session.info3 <- renderPrint({
     cat(session.info[[3]])
