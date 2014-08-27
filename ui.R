@@ -1,6 +1,5 @@
 ######################################################################
-# Author: H.J.F. van Dunné 
-# Copyright 2014 SouthShield Productions BV
+# Copyright (c) 2014 SouthShield Productions BV
 # Published on GitHub under GPLv3
 ######################################################################
 
